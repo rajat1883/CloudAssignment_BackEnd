@@ -19,8 +19,6 @@ namespace NAGPCloudAssignment
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseUrls("http://*:8001")
-                .UseStartup<Startup>()
-                .Build();
+                .UseStartup<Startup>();
     }
 }
