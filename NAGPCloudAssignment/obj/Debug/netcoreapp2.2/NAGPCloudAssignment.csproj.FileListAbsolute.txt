@@ -1,0 +1,13 @@
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\bin\Debug\netcoreapp2.2\NAGPCloudAssignment.deps.json
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\bin\Debug\netcoreapp2.2\NAGPCloudAssignment.runtimeconfig.json
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\bin\Debug\netcoreapp2.2\NAGPCloudAssignment.runtimeconfig.dev.json
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\bin\Debug\netcoreapp2.2\NAGPCloudAssignment.dll
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\bin\Debug\netcoreapp2.2\NAGPCloudAssignment.pdb
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.RazorAssemblyInfo.cache
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.RazorAssemblyInfo.cs
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.AssemblyInfoInputs.cache
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.AssemblyInfo.cs
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.dll
+C:\Users\rajatarora\source\repos\NAGPCloudAssignment\NAGPCloudAssignment\obj\Debug\netcoreapp2.2\NAGPCloudAssignment.pdb
